@@ -25,8 +25,14 @@
 
 ## 🚀 Projects
 
-<object data="projects.html" type="text/html" width="100%" height="600px">
-</object>
+<div class="test">
+<img width="50%" alt="Iliadbusiness" align="center" src="https://github.com/Ammea1991/Ammea1991/blob/main/github-b2b.gif?raw=true"/>
+
+## IliadBusiness Platform
+
+IliadBusiness, a service by Iliad Italia S.p.A., offers a dedicated platform for the sale of its telecommunication services to businesses and VAT-registered professionals.
+
+</div>
 
 ## 🏆 Experience
 
@@ -40,6 +46,20 @@ I'm always excited to collaborate on interesting projects and challenges. Feel f
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meazza.andrea@gmail.com)
 
 <style>
-/* img[alt=Iliadbusiness] { width: 65%; } */
-
+  body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+  }
+  h1 {
+    font-size: 28px;
+    color: #0066cc;
+  }
+  p {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  .test{
+    width: 400px;
+  }
 </style>
