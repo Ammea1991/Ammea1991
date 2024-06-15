@@ -39,6 +39,6 @@ I'm always excited to collaborate on interesting projects and challenges. Feel f
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meazza.andrea@gmail.com)
 
 <style>
-img[alt=Iliadbusiness] { width: 65%; }
+img[alt=Iliadbusiness] { width: 200px; }
 
 </style>
