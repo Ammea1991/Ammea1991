@@ -25,14 +25,11 @@
 
 ## 🚀 Projects
 
-<div class="test">
-<img width="50%" href="business.iliad.it" alt="Iliadbusiness" align="center" src="https://github.com/Ammea1991/Ammea1991/blob/main/github-b2b.gif?raw=true"/>
+[<img width="50%" href="business.iliad.it" alt="Iliadbusiness" align="center" src="https://github.com/Ammea1991/Ammea1991/blob/main/github-b2b.gif?raw=true">](https://business.iliad.it)
 
 ## IliadBusiness Platform
 
 IliadBusiness, a service by Iliad Italia S.p.A., offers a dedicated platform for the sale of its telecommunication services to businesses and VAT-registered professionals.
-
-</div>
 
 ## 🏆 Experience
 
@@ -59,7 +56,5 @@ I'm always excited to collaborate on interesting projects and challenges. Feel f
     font-size: 16px;
     line-height: 1.6;
   }
-  .test{
-    width: 400px;
-  }
+ 
 </style>
