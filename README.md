@@ -25,7 +25,9 @@
 
 ## 🚀 Projects
 
-<img alt="Iliadbusiness" align=center src="https://github.com/Ammea1991/Ammea1991/blob/main/github-b2b.gif?raw=true"/>
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+
+<img alt="Iliadbusiness" align=center width="65%" src="https://github.com/Ammea1991/Ammea1991/blob/main/github-b2b.gif?raw=true"/>
 
 ## 🏆 Experience
 
@@ -39,6 +41,6 @@ I'm always excited to collaborate on interesting projects and challenges. Feel f
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meazza.andrea@gmail.com)
 
 <style>
-img[alt=Iliadbusiness] { width: 200px; }
+/* img[alt=Iliadbusiness] { width: 65%; } */
 
 </style>
