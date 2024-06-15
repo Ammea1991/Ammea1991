@@ -17,9 +17,13 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+---
+
+<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+
 ## 🚀 Projects
 
-![alt text](https://github.com/Ammea1991/Ammea1991/blob/main/github-b2b.gif?raw=true)
+<img alt="Iliadbusiness" align=center src="https://github.com/Ammea1991/Ammea1991/blob/main/github-b2b.gif?raw=true"/>
 
 ## 🏆 Experience
 
@@ -31,3 +35,8 @@ I'm always excited to collaborate on interesting projects and challenges. Feel f
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-meazza-4761791b9/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meazza.andrea@gmail.com)
+
+<style>
+img[alt=Iliadbusiness] { width: 65%; }
+
+</style>
