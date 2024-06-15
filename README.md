@@ -25,20 +25,8 @@
 
 ## 🚀 Projects
 
-<div style="display: flex; justify-content: space-around; align-items: center; ">
-  <div style="text-align: center; margin: 10px; width: 40%;">
-     <img alt="Iliadbusiness" align=center  src="https://github.com/Ammea1991/Ammea1991/blob/main/github-b2b.gif?raw=true"/> 
-    <h2>IliadBusiness Platform</h2>
-        <p style="text-align: justify;">IliadBusiness, a service by Iliad Italia S.p.A., offers a dedicated platform for the sale of its telecommunication services to businesses and VAT-registered professionals.</p>
-
-  </div>
-  <div style="text-align: center; margin: 10px; width: 40%;">
-    <img alt="Iliadbusiness" align=center  src="https://github.com/Ammea1991/Ammea1991/blob/main/github-b2b.gif?raw=true"/> 
-    <h2>IliadBusiness Platform</h2>
-        <p style="text-align: justify;">IliadBusiness, a service by Iliad Italia S.p.A., offers a dedicated platform for the sale of its telecommunication services to businesses and VAT-registered professionals.</p>
-
-  </div>
-</div>
+<object data="projects.html" type="text/html" width="100%" height="600px">
+</object>
 
 ## 🏆 Experience
 
