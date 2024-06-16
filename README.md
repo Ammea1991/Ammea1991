@@ -42,7 +42,7 @@ I'm always excited to collaborate on interesting projects and challenges. Feel f
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-meazza-4761791b9/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meazza.andrea@gmail.com)
 
-<style>
+<!-- <style>
   body {
     font-family: Arial, sans-serif;
     margin: 20px;
@@ -56,5 +56,5 @@ I'm always excited to collaborate on interesting projects and challenges. Feel f
     font-size: 16px;
     line-height: 1.6;
   }
- 
-</style>
+
+</style> -->
