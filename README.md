@@ -1,6 +1,6 @@
-# 👨‍💻 About Me
+# 🧑🏻‍💻 About Me
 
-👋 Hi there! I'm a passionate Front-End Developer with 3 years of professional experience in building dynamic and responsive web applications. My expertise lies in creating seamless user experiences using modern web technologies.
+🙋🏻‍♂️ Hi there! I'm a passionate Front-End Developer with 3 years of professional experience in building dynamic and responsive web applications. My expertise lies in creating seamless user experiences using modern web technologies.
 
 ## 🛠️ Skills
 
